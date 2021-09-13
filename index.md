@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##哈哈，我终于有自己的域名了
 
 You can use the [editor on GitHub](https://github.com/zhaolb1/mylog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
